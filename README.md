@@ -29,3 +29,5 @@ Syntax highlighted code block
 ```
 
 Para más detalles ver [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## La página de ejemplo de GitHub Pages la puedes encontrar en el siguiente [enlace](https://dpa3001.github.io/portfolio/)
